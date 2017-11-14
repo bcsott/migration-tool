@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/migration-tool"/>
+    <filter root="/apps/sling-libs"/>
+    <filter root="/etc/migration"/>
+    <filter root="/etc/pipes"/>
+</workspaceFilter>
